@@ -1,2 +1,2 @@
 # practice
-learninh git
+learning git
